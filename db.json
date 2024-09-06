@@ -1,11 +1,28 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+    { "id": 1, "title": "First Title", "body": "This is the body of the first object." },
+    { "id": 2, "title": "Second Title", "body": "This is the body of the second object." },
+    { "id": 3, "title": "Third Title", "body": "This is the body of the third object." },
+    { "id": 4, "title": "Fourth Title", "body": "This is the body of the fourth object." },
+    { "id": 5, "title": "Fifth Title", "body": "This is the body of the fifth object." },
+    { "id": 6, "title": "Sixth Title", "body": "This is the body of the sixth object." },
+    { "id": 7, "title": "Seventh Title", "body": "This is the body of the seventh object." },
+    { "id": 8, "title": "Eighth Title", "body": "This is the body of the eighth object." },
+    { "id": 9, "title": "Ninth Title", "body": "This is the body of the ninth object." },
+    { "id": 10, "title": "Tenth Title", "body": "This is the body of the tenth object." },
+    { "id": 11, "title": "Eleventh Title", "body": "This is the body of the eleventh object." },
+    { "id": 12, "title": "Twelfth Title", "body": "This is the body of the twelfth object." },
+    { "id": 13, "title": "Thirteenth Title", "body": "This is the body of the thirteenth object." },
+    { "id": 14, "title": "Fourteenth Title", "body": "This is the body of the fourteenth object." },
+    { "id": 15, "title": "Fifteenth Title", "body": "This is the body of the fifteenth object." },
+    { "id": 16, "title": "Sixteenth Title", "body": "This is the body of the sixteenth object." },
+    { "id": 17, "title": "Seventeenth Title", "body": "This is the body of the seventeenth object." },
+    { "id": 18, "title": "Eighteenth Title", "body": "This is the body of the eighteenth object." },
+    { "id": 19, "title": "Nineteenth Title", "body": "This is the body of the nineteenth object." },
+    { "id": 20, "title": "Twentieth Title", "body": "This is the body of the twentieth object." }
+],
   "profile": {
-    "name": "typicode"
+    "name": "Victor",
+    "country": "Nigeria"
   }
 }
